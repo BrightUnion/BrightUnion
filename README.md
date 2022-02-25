@@ -1,1 +1,1 @@
-![光明联盟宣传图](https://brightunion.github.io/img/bu.png)
+![光明联盟宣传图](https://brightunion.netlify.app/img/bu.png)
